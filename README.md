@@ -1,1 +1,1 @@
-Script to get html dom of site via Chrome webserser connection.
+A script to get the dom of site via Chrome webserser connection.
