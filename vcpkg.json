@@ -1,0 +1,10 @@
+{
+  "dependencies": [
+    "websocketpp",
+    "curl",
+    "boost-random",
+    "nlohmann-json",
+    "icu",
+    "boost-locale"
+  ]
+}
